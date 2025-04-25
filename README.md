@@ -1,4 +1,4 @@
-# AssignmentSure - Academic Assistance Platform
+# AssignmentSure - Premier Academic Assistance Platform
 
 <img src="https://assignmentsure.com/wp-content/uploads/2023/04/cropped-Assignment_Sure_Logo-removebg.png" alt="AssignmentSure Logo" width="250"/>
 
@@ -8,7 +8,7 @@
 
 ## 📚 About AssignmentSure
 
-AssignmentSure is a comprehensive academic assistance platform offering expert help across a wide range of subjects, disciplines, and academic services. Our platform is designed to support students at all educational levels with high-quality academic resources and assistance.
+AssignmentSure provides comprehensive academic support services to students worldwide, offering expert assistance with assignments, essays, dissertations, and technical subjects. Our platform features 200+ specialized services across 40+ disciplines, alongside 35+ free academic tools including plagiarism checkers, citation generators, and mathematical calculators. Trusted by students globally for high-quality, original academic content and 24/7 expert support.
 
 ## 🌟 Key Features
 
