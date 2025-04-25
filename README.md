@@ -1,6 +1,6 @@
 # AssignmentSure - Academic Assistance Platform
 
-![AssignmentSure Logo]([[https://assignmentsure.com/wp-content/uploads/2022/01/logo.png](https://assignmentsure.com)])
+![AssignmentSure Logo]([[https://assignmentsure.com/wp-content/uploads/2022/01/logo.png])
 
 [![Last Updated](https://img.shields.io/badge/Last%20Updated-April%202025-blue)](https://assignmentsure.com)
 [![Services](https://img.shields.io/badge/Services-200%2B-green)](https://assignmentsure.com/services/)
